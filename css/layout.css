@@ -6,6 +6,7 @@ body {
 {
     padding-left: 3%;
     padding-right: 3%;
+    padding-top: 2%;
     border: 1px solid rgba(0, 0, 0, .3);
     border-radius: 6px 6px 0 0;
     background-image: url("../img/food_bg.avif");
@@ -21,9 +22,10 @@ body {
 
 .navigation
 {
-    float: right;
     position: absolute;
-    transform: translate(180%, 600%);
+    bottom: 0;
+    right: 0;
+    margin-right: 3%;
 }
 
 .navigation ul {
