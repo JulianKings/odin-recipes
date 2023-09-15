@@ -151,3 +151,11 @@ body {
     border-radius: 6px;
     padding: 6px;
 }
+
+.footer {
+    display: flex;
+    padding-top: 30px;
+    font-size: 14px;
+    justify-content: center;
+
+}
